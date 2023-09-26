@@ -11,6 +11,6 @@ instance_type = "t2.micro"
 key_name      = "masterkeypair"
 
  tags = {
-    Name = "example-server"
+    Name = "test-server-Git"
  }
 }
